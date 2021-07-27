@@ -64,6 +64,7 @@ common base
     ScopedTypeVariables
     StandaloneDeriving
     StrictData
+    TemplateHaskell
     TupleSections
     TypeApplications
     TypeFamilies
