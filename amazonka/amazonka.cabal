@@ -69,7 +69,7 @@ common base
     TypeFamilies
     ViewPatterns
 
-  build-depends:      base >=4.13 && <5
+  build-depends:      base >=4.12 && <5
 
 library
   import:          base
@@ -141,7 +141,6 @@ library
     , text                  >=1.1
     , time                  >=1.9
     , transformers          >=0.2
-    , unliftio-core         >=0.1
     , unordered-containers  >=0.2.7
     , xml-conduit           >=1.7.0.1
     , xml-types             >=0.3.4
